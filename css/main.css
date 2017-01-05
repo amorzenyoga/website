@@ -78,10 +78,15 @@ body {
     border-top: 20px solid #e44d26;
 }
 
+
+.main-container{
+	background: #9bcaa1;
+}
+
 .header-container,
 .footer-container,
 .main aside {
-    background: #9bcaa1; /* background: #f16529; ABK */
+    background: #ffffff; /* background: #f16529; ABK */
 }
 
 .title {
@@ -215,9 +220,9 @@ nav a:hover {
 
     .header-container,
     .main aside {
-        -webkit-box-shadow: 0 5px 10px #aaa;
+      /*   -webkit-box-shadow: 0 5px 10px #aaa;
            -moz-box-shadow: 0 5px 10px #aaa;
-                box-shadow: 0 5px 10px #aaa;
+                box-shadow: 0 5px 10px #aaa; ABK */
     }
 
 /* ============
